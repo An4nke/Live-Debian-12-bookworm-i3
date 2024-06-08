@@ -16,6 +16,7 @@ dstat
 memtester
 lshw
 memtest86+
+ruby
 rsync
 ranger
 rsbackup
@@ -73,11 +74,15 @@ feh
 i3blocks
 i3status
 sakura
+bundler
+python-is-python3
 dunst
 rofi
 firefox-esr-l10n-de
 chromium
 vim
+vim-command-t
+vim-syntastic
+vim-fugitive
+git-crypt
 grub-efi
-calamares
-calamares-settings-debian
