@@ -86,3 +86,6 @@ vim-syntastic
 vim-fugitive
 git-crypt
 grub-efi
+bash-completion
+network-manager
+task-laptop
